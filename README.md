@@ -1,4 +1,5 @@
 # Finetune-Mistral
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project fine-tunes the Mistral-7B model using Alpaca-style JSONL data formatted from real-world chat logs.  
 Includes scripts for QLoRA-based optimization, training with 4-bit quantization, and environment setup.
