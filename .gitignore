@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+*.egg-info/
+pip-wheel-metadata/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model weights / large files
+*.bin
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Logs and dumps
+*.log
+*.out
+*.err
+*.pkl
+*.npy
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
